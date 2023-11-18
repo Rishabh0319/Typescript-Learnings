@@ -61,3 +61,7 @@ console.log("Default perameter function result");
 console.log(isLogedIn3("Rishabh", "pass@1234", true));     // function call
 console.log(isLogedIn3("Rishabh", "pass@1234"));     // function call
 console.log(isLogedIn3("rishabh", "pass@146"));     // function call
+
+
+
+
